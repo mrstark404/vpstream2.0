@@ -1,0 +1,1254 @@
+/root/vpsfilestream/Adarsh/__main__.py:28: DeprecationWarning: There is no current event loop
+  loop = asyncio.get_event_loop()
+2023-07-31 08:56:33,430 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-07-31 08:56:33,432 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-07-31 08:56:33,433 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-07-31 08:56:33,433 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-07-31 08:56:33,433 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-07-31 08:56:33,433 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-07-31 08:56:33,434 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-07-31 08:56:33,434 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-07-31 08:56:33,434 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-07-31 08:56:33,434 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-07-31 08:56:33,435 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-07-31 08:56:33,435 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-07-31 08:56:33,435 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-07-31 08:56:33,436 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-07-31 08:56:33,436 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-07-31 08:56:33,436 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-07-31 10:25:16,169 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
+2023-07-31 10:25:16,458 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
+2023-07-31 10:25:16,776 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
+2023-07-31 10:25:17,043 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
+2023-07-31 15:47:56,624 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
+2023-07-31 15:47:57,054 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
+2023-07-31 19:49:22,896 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
+2023-07-31 20:07:08,448 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
+2023-07-31 20:07:08,538 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
+2023-07-31 21:33:42,436 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
+2023-08-01 03:34:32,707 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
+2023-08-01 06:16:12,369 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
+2023-08-01 15:10:31,704 - aiohttp.server - ERROR - Unhandled exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 514, in start
+    resp, reset = await task
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 460, in _handle_request
+    reset = await self.finish_response(request, resp, start_time)
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 614, in finish_response
+    await resp.write_eof()
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_response.py", line 749, in write_eof
+    await payload.write(self._payload_writer)
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/payload.py", line 443, in write
+    chunk = await self._iter.__anext__()
+  File "/root/vpsfilestream/Adarsh/utils/custom_dl.py", line 212, in yield_file
+    r = await media_session.send(
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/session/session.py", line 331, in send
+    RPCError.raise_it(result, type(data))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.service_unavailable_503.Timeout: Telegram says: [-503 Timeout] - Telegram is having internal problems. Please try again later. (caused by "upload.GetFile")
+2023-08-02 01:28:08,562 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
+2023-08-02 01:28:08,882 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
+2023-08-02 07:12:41,372 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
+2023-08-02 07:46:43,078 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
+2023-08-02 08:51:21,098 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
+2023-08-02 08:51:22,727 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
+2023-08-02 08:51:22,791 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
+2023-08-02 08:51:24,612 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
+2023-08-02 10:24:03,811 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
+2023-08-02 12:16:09,242 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
+2023-08-02 18:29:32,645 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:32,645 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:32,646 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:32,646 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:32,646 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:32,647 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:32,647 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:32,647 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:32,647 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:32,647 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:32,647 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:32,648 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:32,648 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:32,648 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:32,648 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:32,648 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:33,020 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:33,021 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:33,021 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:33,021 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:33,022 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:33,022 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:33,022 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:33,023 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:33,023 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:33,023 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:33,023 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:33,023 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:33,024 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:33,024 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:33,024 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 18:29:33,024 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,197 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,198 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,198 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,198 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,198 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,198 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,199 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,199 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,199 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,199 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,199 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,200 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,200 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,200 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,200 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,200 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,532 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,532 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,533 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,533 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,533 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,533 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,533 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,534 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,534 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,534 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,534 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,534 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,534 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,535 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,535 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:30:28,535 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:22,916 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:22,917 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:22,917 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:22,917 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:22,917 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:22,918 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:22,918 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:22,918 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:22,918 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:22,919 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:22,919 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:22,919 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:22,919 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:22,919 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:22,919 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:22,920 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:23,246 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:23,247 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:23,247 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:23,248 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:23,248 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:23,248 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:23,248 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:23,249 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:23,249 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:23,249 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:23,249 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:23,249 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:23,250 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:23,250 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:23,250 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:32:23,250 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:48:17,807 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:48:17,808 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:48:17,808 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:48:17,808 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:48:17,808 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:48:17,808 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:48:17,809 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:48:17,809 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:48:17,809 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:48:17,809 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:48:17,809 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:48:17,810 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:48:17,810 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:48:17,810 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:48:17,810 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 19:48:17,810 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 20:16:43,998 - aiohttp.server - ERROR - Unhandled exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 514, in start
+    resp, reset = await task
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 460, in _handle_request
+    reset = await self.finish_response(request, resp, start_time)
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 614, in finish_response
+    await resp.write_eof()
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_response.py", line 749, in write_eof
+    await payload.write(self._payload_writer)
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/payload.py", line 443, in write
+    chunk = await self._iter.__anext__()
+  File "/root/vpsfilestream/Adarsh/utils/custom_dl.py", line 212, in yield_file
+    r = await media_session.send(
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/session/session.py", line 331, in send
+    RPCError.raise_it(result, type(data))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.service_unavailable_503.Timeout: Telegram says: [-503 Timeout] - Telegram is having internal problems. Please try again later. (caused by "upload.GetFile")
+2023-08-02 20:16:52,340 - aiohttp.server - ERROR - Unhandled exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 514, in start
+    resp, reset = await task
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 460, in _handle_request
+    reset = await self.finish_response(request, resp, start_time)
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 614, in finish_response
+    await resp.write_eof()
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_response.py", line 749, in write_eof
+    await payload.write(self._payload_writer)
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/payload.py", line 443, in write
+    chunk = await self._iter.__anext__()
+  File "/root/vpsfilestream/Adarsh/utils/custom_dl.py", line 212, in yield_file
+    r = await media_session.send(
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/session/session.py", line 331, in send
+    RPCError.raise_it(result, type(data))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.service_unavailable_503.Timeout: Telegram says: [-503 Timeout] - Telegram is having internal problems. Please try again later. (caused by "upload.GetFile")
+2023-08-02 20:16:56,037 - aiohttp.server - ERROR - Unhandled exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 514, in start
+    resp, reset = await task
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 460, in _handle_request
+    reset = await self.finish_response(request, resp, start_time)
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 614, in finish_response
+    await resp.write_eof()
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_response.py", line 749, in write_eof
+    await payload.write(self._payload_writer)
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/payload.py", line 443, in write
+    chunk = await self._iter.__anext__()
+  File "/root/vpsfilestream/Adarsh/utils/custom_dl.py", line 212, in yield_file
+    r = await media_session.send(
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/session/session.py", line 331, in send
+    RPCError.raise_it(result, type(data))
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.service_unavailable_503.Timeout: Telegram says: [-503 Timeout] - Telegram is having internal problems. Please try again later. (caused by "upload.GetFile")
+2023-08-02 21:01:38,687 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
+2023-08-02 21:40:34,651 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 21:40:34,652 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 21:40:34,652 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 21:40:34,652 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 21:40:34,653 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 21:40:34,653 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 21:40:34,653 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 21:40:34,653 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 21:40:34,653 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 21:40:34,654 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 21:40:34,654 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 21:40:34,654 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 21:40:34,654 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 21:40:34,655 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 21:40:34,655 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-02 21:40:34,655 - pyrogram.dispatcher - ERROR - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "/usr/local/lib/python3.10/dist-packages/pyromod/listen/listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+2023-08-03 03:10:11,804 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
+2023-08-03 07:08:44,567 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
+2023-08-03 08:07:33,970 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
+2023-08-03 08:07:48,735 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
+2023-08-03 08:07:50,077 - aiohttp.server - ERROR - Error handling request
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/aiohttp/web_protocol.py", line 334, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 551, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'Invalid method encountered'"
